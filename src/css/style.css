@@ -1,0 +1,84 @@
+
+
+.app {
+  min-height: 100vh;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  transition: background 0.5s ease;
+}
+
+.title {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.mood-grid {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.mood-btn {
+  border: none;
+  padding: 12px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  backdrop-filter: blur(10px);
+  transition: transform 0.2s ease;
+}
+
+.mood-btn:hover {
+  transform: scale(1.05);
+}
+
+.reaction {
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+.card {
+  width: 260px;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.card button {
+  margin-top: 10px;
+  border: none;
+  padding: 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  background: rgba(8, 10, 9, 0.4);
+}
+.heart-row {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.heart {
+  transition: transform 0.2s ease, color 0.2s ease;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.heart:hover {
+  transform: scale(1.2);
+}
+
+.heart.saved {
+  color: hotpink;
+}

@@ -1,0 +1,1454 @@
+{
+  "Stardust & Portals": [
+    {
+      "title": "Die goldene Gans",
+      "genres": "[{'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Billy Jack",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Hunter × Hunter: The Last Mission",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 28, 'name': 'Action'}]"
+    },
+    {
+      "title": "Where the Trail Ends",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Descent",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 27, 'name': 'Horror'}]"
+    },
+    {
+      "title": "Gremlins 2: The New Batch",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Anaconda",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Ratatouille",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "The Legend of Longwood",
+      "genres": "[{'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Lion of Thebes",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "The Treasure of the Sierra Madre",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]"
+    },
+    {
+      "title": "Breakfast on the Grass",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Slipper and the Rose",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Dante's Peak",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Urusei Yatsura 2: Beautiful Dreamer",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "2033",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Return from Witch Mountain",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Two Arabian Knights",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "The Nutty Professor",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "The Little Fox",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Fall Time",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Myth",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Zenith",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "One Magic Christmas",
+      "genres": "[{'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Unlucky Charms",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "The King's Beard",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "Japan Sinks",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Queen of the Amazons",
+      "genres": "[{'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "Abbott and Costello Go to Mars",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "On Borrowed Time",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Five Children and It",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Moby Dick",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Open Season",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Alabama Moon",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "When Time Ran Out...",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Order",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "13 Frightened Girls",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Fox and the Hound 2",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Jupiter's Darling",
+      "genres": "[{'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "Lucia",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "White Water Summer",
+      "genres": "[{'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Rain Fall",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "The Curse of the Cat People",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Hercules and the Captive Women",
+      "genres": "[{'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "Behind Enemy Lines II: Axis of Evil",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Rampage at Apache Wells",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 37, 'name': 'Western'}]"
+    },
+    {
+      "title": "Lovestruck: The Musical",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "East of Sudan",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Male and Female",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Bewitched",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Fanny & Alexander",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]"
+    },
+    {
+      "title": "Emmanuelle 2000: Emmanuelle's Intimate Encounters",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "The Cutlass",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Blood Tea and Red String",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "As Good As Dead",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Dungeons & Dragons",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Sharpe's Challenge",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10752, 'name': 'War'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "Miyori's Forest",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 16, 'name': 'Animation'}, {'id': 14, 'name': 'Fantasy'}]"
+    }
+  ],
+  "Curiosity Nook": [
+    {
+      "title": "Zeitgeist: Moving Forward",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Slanted Screen",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Do Not Resist",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "James Gandolfini: Tribute To A Friend",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Plague",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Living with Wolves",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Live and let Live",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Concerning Violence",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Decline of Western Civilization Part II: The Metal Years",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "Pearl Jam: Twenty",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "The Lost World of Communism",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Earth's Golden Playground",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Slaying the Badger",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "White Out, Black In",
+      "genres": "[{'id': 878, 'name': 'Science Fiction'}, {'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Reagan Show",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Directed by Andrei Tarkovsky",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Chicken Ranch",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Waiting for 'Superman'",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Charlie: The Life and Art of Charles Chaplin",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Story of Film: An Odyssey",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Social Genocide",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Swastika",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10752, 'name': 'War'}]"
+    },
+    {
+      "title": "The Arrested Development Documentary Project",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Ronaldo",
+      "genres": "[{'id': 36, 'name': 'History'}, {'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "We Could Be King",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Secret",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Ghosts of Ole Miss",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "X: The Unheard Music",
+      "genres": "[{'id': 10402, 'name': 'Music'}, {'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Lovers and the Despot",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Queen and I",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Red Army",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "Lesson Plan",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "A Sixth Part of the World",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Honest Man: The Life of R. Budd Dwyer",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Behind the Burly Q",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Neshoba",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Picture of Light",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Limited Partnership",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Next Goal Wins",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Stone Roses: Made of Stone",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "My Own Man",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Moog",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "His Way",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Stop Making Sense",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "Hype!",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "12 O’Clock Boys",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "The Office",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "MC5: A True Testimonial",
+      "genres": "[{'id': 10402, 'name': 'Music'}, {'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Superheroes",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Sam Peckinpah: Man of Iron",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "War Made Easy: How Presidents & Pundits Keep Spinning Us to Death",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Farmageddon",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "I Am Divine",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Palme",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Tyke Elephant Outlaw",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "Wax, or the Discovery of Television Among the Bees",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Supermensch: The Legend of Shep Gordon",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    },
+    {
+      "title": "China Heavyweight",
+      "genres": "[{'id': 99, 'name': 'Documentary'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Killer at Large",
+      "genres": "[{'id': 99, 'name': 'Documentary'}]"
+    }
+  ],
+  "Tea & Tucked In": [
+    {
+      "title": "Heidi",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Ritual",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Tulse Luper Suitcases, Part 1: The Moab Story",
+      "genres": "[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 12, 'name': 'Adventure'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Little Death",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Iron Man",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Sawdust and Tinsel",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "End of the Spear",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Vow",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "The Dark Knight",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Speed Racer",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "The Twilight Samurai",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Body and Soul",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Early Spring",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Sleeping Beauty",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Watch on the Rhine",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Girl without an Address",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Nina Takes a Lover",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Julie Johnson",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Gods of the Plague",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Breaking Through",
+      "genres": "[{'id': 10402, 'name': 'Music'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Little Children",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Our Daily Bread",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Red Firecracker, Green Firecracker",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "For the Birds",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Atlas Shrugged Part III: Who is John Galt?",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]"
+    },
+    {
+      "title": "Love and Pain and the Whole Damn Thing",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Corridors of Blood",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Perhaps Love",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Treasure Island",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Nazarin",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Inn of Evil",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Venus In Furs",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Black Butterfly",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Bitter Sweet",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Princess of Thieves",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 10749, 'name': 'Romance'}, {'id': 10770, 'name': 'TV Movie'}]"
+    },
+    {
+      "title": "A Delicate Balance",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Joanna",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]"
+    },
+    {
+      "title": "Tomato Red",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Lisbon Story",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Confessions of an Opium Eater",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Fog in August",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Donald Cried",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "She and Her Cat: Their Standing Points",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Crying Out Love in the Center of the World",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Dead Poets Society",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Three Smart Girls",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "Red Corner",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "That Sinking Feeling",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Yi Yi",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "PK",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Carriers",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "W.E.",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Kick",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Vaah! Life Ho Toh Aisi!",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Cruel Summer",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Blood Done Sign My Name",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Infliction",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}]"
+    },
+    {
+      "title": "Sonja",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "The Corsican Brothers",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Secret",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    }
+  ],
+  "Spikes & Sparks": [
+    {
+      "title": "House of Women",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Foreign Land",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "The Last Exorcism",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Age of Dinosaurs",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "The Hunter's Prayer",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "A Bullet for Sandoval",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 37, 'name': 'Western'}]"
+    },
+    {
+      "title": "Blind Fury",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Soaked in Bleach",
+      "genres": "[{'id': 10402, 'name': 'Music'}, {'id': 18, 'name': 'Drama'}, {'id': 99, 'name': 'Documentary'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Cape Fear",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Reluctant Fundamentalist",
+      "genres": "[{'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Mystery Street",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Kite Liberator",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Hobgoblins",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Four of the Apocalypse",
+      "genres": "[{'id': 37, 'name': 'Western'}, {'id': 28, 'name': 'Action'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "American Perfekt",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Legend of Nigger Charley",
+      "genres": "[{'id': 37, 'name': 'Western'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Wir waren Könige",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "New Jack City",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Boyka: Undisputed IV",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "The Divine Weapon",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "Conquest",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}]"
+    },
+    {
+      "title": "The Grissom Gang",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Gonin",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 10769, 'name': 'Foreign'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Asura: The City of Madness",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Father Hood",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "The Defiant Ones",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Big Driver",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Sethupathi",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Mousey",
+      "genres": "[{'id': 10770, 'name': 'TV Movie'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Abduction",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}]"
+    },
+    {
+      "title": "The Wonderful World of Puss 'n Boots",
+      "genres": "[{'id': 10751, 'name': 'Family'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 16, 'name': 'Animation'}]"
+    },
+    {
+      "title": "Attack on Titan",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Nick Fury: Agent of S.H.I.E.L.D.",
+      "genres": "[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}]"
+    },
+    {
+      "title": "The Poseidon Adventure",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]"
+    },
+    {
+      "title": "You Get Me",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Revenge of the Pink Panther",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Longest Yard",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "20,000 Leagues Under the Sea",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "The Sicilian Connection",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "The Mad Dog Killer",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Cthulhu",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Red White & Blue",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Kickboxer 5: The Redemption",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Wheels of Fire",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "The Girl by the Lake",
+      "genres": "[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Courted",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Kill Cruise",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Nickel Ride",
+      "genres": "[{'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Dinosaurier - Gegen uns seht ihr alt aus!",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Under New Management",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Robot Overlords",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}]"
+    },
+    {
+      "title": "The Rift",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "April and the Extraordinary World",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Dirty Lies",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Meltdown: Days of Destruction",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10770, 'name': 'TV Movie'}]"
+    },
+    {
+      "title": "Lisa",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "One 2 Ka 4",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Adventures of Pluto Nash",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Star Trek III: The Search for Spock",
+      "genres": "[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Apparition",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
+    }
+  ],
+  "Bubbles & Grins": [
+    {
+      "title": "Mary and Rhoda",
+      "genres": "[{'id': 10770, 'name': 'TV Movie'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Tatu and Patu",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "It All Came True",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "The Other Guys",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Comedy Central Roast of Flavor Flav",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "I Hate Luv Storys",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Go West",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 37, 'name': 'Western'}]"
+    },
+    {
+      "title": "Bang Bang!",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Let It Ride",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Edge of Seventeen",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "A Perfect Day",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Goldene Zeiten",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Dirt Bike Kid",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Village People",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Downhill",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Oak",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Rita, Sue and Bob Too",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Muppets Most Wanted",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "The Great St. Trinian's Train Robbery",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Prince & Me",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "All About Anna",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Gunless",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 37, 'name': 'Western'}]"
+    },
+    {
+      "title": "Hotel Transylvania 2",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Celine and Julie Go Boating",
+      "genres": "[{'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "The Talk of the Town",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Bride for Rent",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Anastasia",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Beware! The Blob",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 27, 'name': 'Horror'}]"
+    },
+    {
+      "title": "The Color Wheel",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Folks!",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "I Went Down",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Waltz of the Toreadors",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Rumbos",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Shag",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Dollybirds",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "Panda! Go Panda!",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Fantomas vs. Scotland Yard",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Big Leaguer",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "The Sweet Escape",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Girl and The Echo",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Oh, Woe Is Me",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Winter Break",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Tale of Tsar Saltan",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Last Vegas",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Legendary Giulia and Other Miracles",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Trevor Noah: Crazy Normal",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Pacifier",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The Heartbreak Kid",
+      "genres": "[{'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The 'Burbs",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Tangled Ever After",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "Watership Down",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Rock Star",
+      "genres": "[{'id': 10402, 'name': 'Music'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "American Adobo",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Princess Iron Fan",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Leap Year",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Ninth Configuration",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Infinitely Polar Bear",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Irony of Fate. The Sequel",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Little Big League",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "A Matter of Heart",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    }
+  ],
+  "Rainday Feels": [
+    {
+      "title": "All Roads Lead to Rome",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Circles",
+      "genres": "[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]"
+    },
+    {
+      "title": "Mutum",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Sun's Burial",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Out of Sync",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "The Garden of Eden",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Griffin and Phoenix",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Antigang",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Longitude",
+      "genres": "[{'id': 10770, 'name': 'TV Movie'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "The Spectacular Now",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Films to Keep You Awake: Spectre",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}]"
+    },
+    {
+      "title": "They Are All Dead",
+      "genres": "[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Cool Blue",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Tempted",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "City in Darkness",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]"
+    },
+    {
+      "title": "Elite Squad: The Enemy Within",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]"
+    },
+    {
+      "title": "Palm Trees in the Snow",
+      "genres": "[{'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Senseless",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Wives Under Suspicion",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Truly Human",
+      "genres": "[{'id': 10769, 'name': 'Foreign'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Free Fall",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Unstoppable",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "The New Country",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Going Hollywood",
+      "genres": "[{'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Gabbeh",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "10 Attitudes",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Born to Be Bad",
+      "genres": "[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Voice of a Murderer",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Jump In!",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "The Lady Is Willing",
+      "genres": "[{'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Miss Julie",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Serving Sara",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "A Burning Hot Summer",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Interstate 60",
+      "genres": "[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 9648, 'name': 'Mystery'}]"
+    },
+    {
+      "title": "Majesty",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "By the Gun",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "A Nightingale Falling",
+      "genres": "[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "The Story of Mankind",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]"
+    },
+    {
+      "title": "Cruel Intentions 3",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Georg",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]"
+    },
+    {
+      "title": "Evangelion: 3.0 You Can (Not) Redo",
+      "genres": "[{'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "My Cousin Vinny",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "2 Autumns 3 Winters",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Tenchi: The Samurai Astronomer",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "Lomalla",
+      "genres": "[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "10 Things I Hate About You",
+      "genres": "[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Superdome",
+      "genres": "[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "The Simple Life Of Noah Dearborn",
+      "genres": "[{'id': 10770, 'name': 'TV Movie'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]"
+    },
+    {
+      "title": "The River Fuefuki",
+      "genres": "[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]"
+    },
+    {
+      "title": "Criminal Lovers",
+      "genres": "[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "O.S.S.",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]"
+    },
+    {
+      "title": "Harvest",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Rudderless",
+      "genres": "[{'id': 10402, 'name': 'Music'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "The Men Who Tread on the Tiger's Tail",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Killing Emmett Young",
+      "genres": "[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
+    },
+    {
+      "title": "Sylvia",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
+    },
+    {
+      "title": "Monsters",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]"
+    },
+    {
+      "title": "Portraits Chinois",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]"
+    },
+    {
+      "title": "Munyurangabo",
+      "genres": "[{'id': 18, 'name': 'Drama'}]"
+    },
+    {
+      "title": "Innocent Voices",
+      "genres": "[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]"
+    }
+  ]
+}
